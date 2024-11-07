@@ -1,3 +1,10 @@
+# Enter the number of data points: 6
+# Enter data point 1: 18
+# Enter data point 2: 22
+# Enter data point 3: 24
+# Enter data point 4: 27
+# Enter data point 5: 43
+# Enter data point 6: 42
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.cluster.hierarchy import dendrogram, linkage

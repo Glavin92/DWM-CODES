@@ -1,3 +1,9 @@
+# Enter number of iterations: 2
+# Enter teleportation factor (between 0 and 1): 0.85
+# Enter number of pages: 3
+# Enter row 1: 0 1 1
+# Enter row 2: 1 0 1
+# Enter row 3: 1 1 0
 def initialize_page_ranks(n):
     return {chr(97 + i): 1 / n for i in range(n)}
 
